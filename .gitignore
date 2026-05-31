@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+venv/
+.env
+
+driver_monitor/logs/*.csv
+logs/*.csv
+
+*.log
