@@ -86,9 +86,8 @@ driver_monitor_v6
 
 ## 📸 Sample Output
 
-Replace the image below with your project screenshot.
 
-![System Output](images/output_demo.png)
+![System Output](images/smoke.png)
 
 ---
 
